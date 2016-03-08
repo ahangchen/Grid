@@ -40,12 +40,12 @@ public class GridAdapter extends BaseAdapter {
 			}
 
 		};
-		cis = new boolean[56 * 7];
+		cis = new boolean[53 * 7];
 	}
 
 	@Override
 	public int getCount() {
-		return 56 * 7;
+		return 53 * 7;
 	}
 
 	@Override
